@@ -118,3 +118,5 @@ STATIC_URL = '/static/'
 AUTH_USER_MODEL = "core.User"
 
 USE_TZ = False
+
+STATIC_ROOT = os.path.join(BASE_DIR, "static")
