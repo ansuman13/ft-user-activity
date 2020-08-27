@@ -99,7 +99,7 @@ Creating user and their Activity:
 | load_sample | Loads sample data of specificed users e.g. load_sample 10|
 | delete_all_users | deletes all non-staff users  |
 
-Django Admin Panel:
-    email: ansuman@yopmail.com
-    password: ansuman123
+Django Admin Panel:  
+    email: ############  
+    password: #########
 
